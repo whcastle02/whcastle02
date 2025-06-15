@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-    <a>
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,js,vue,nuxtjs,nodejs,prisma,postman,tailwind,mysql,figma" />
   </a>
 </div>
