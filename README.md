@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning vibe coding<br>🎯 Goals: Fullstack with Sec<br>🎲 Fun fact: AI is My Partner</p>
 
 ###
 
